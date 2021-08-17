@@ -48,10 +48,10 @@ p {
   display: -ms-grid;
   display: grid;
   grid-gap: 20px;
-  -ms-grid-columns: 250px 250px 250px 210px;
-      grid-template-columns: 250px 250px 250px 210px;
-  -ms-grid-rows: 280px 250px;
-      grid-template-rows: 280px 250px;
+  -ms-grid-columns: 220px 250px 250px 220px;
+      grid-template-columns: 220px 250px 250px 220px;
+  -ms-grid-rows: 260px 250px;
+      grid-template-rows: 260px 250px;
 }
 
 .container .profile {
