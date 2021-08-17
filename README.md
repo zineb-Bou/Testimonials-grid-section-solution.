@@ -6,6 +6,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ## Table of contents
 
 - [The challenge](#the-challenge)
+- [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
 
@@ -15,6 +16,11 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
+### Links
+
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/testimonialsgridsectionsolution-Do23EOlrA)
+- Live Site URL: [Add live site URL here](https://zineb-bou.github.io/Frontend-Mentor---Testimonials-grid-section-solution./)
+- 
 ### Built with
 
 - Semantic HTML5 markup
