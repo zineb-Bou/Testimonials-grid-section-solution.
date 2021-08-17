@@ -18,9 +18,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/testimonialsgridsectionsolution-Do23EOlrA)
-- Live Site URL: [Add live site URL here](https://zineb-bou.github.io/Frontend-Mentor---Testimonials-grid-section-solution./)
-- 
+- [Solution URL](https://www.frontendmentor.io/solutions/testimonialsgridsectionsolution-Do23EOlrA)
+- [Live Site URL](https://zineb-bou.github.io/Frontend-Mentor---Testimonials-grid-section-solution./)
+
 ### Built with
 
 - Semantic HTML5 markup
