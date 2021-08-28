@@ -18,8 +18,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/testimonialsgridsectionsolution-Do23EOlrA)
-- [Live Site URL](https://zineb-bou.github.io/Frontend-Mentor---Testimonials-grid-section-solution./)
+- [Live Site URL]( https://zineb-bou.github.io/Testimonials-grid-section-solution./)
 
 ### Built with
 
@@ -32,6 +31,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Zineb Boutaa](https://zineb-bou.github.io/Protfolio/)
+- Website - [Zineb Boutaa](https://zineb-bou.github.io/)
 - Frontend Mentor - [@zineb-Bou](https://www.frontendmentor.io/profile/zineb-Bou)
 - Twitter - [@ZBoutaa](https://twitter.com/ZBoutaa)
