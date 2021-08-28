@@ -1,25 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&display=swap');
-
-// Primary colors
-
-$Moderate_violet: hsl(263, 55%, 52%);
-$Very_dark_grayish_blue: hsl(217, 19%, 35%);
-$Very_dark_blackish_blue: hsl(219, 29%, 14%);
-$White: hsl(0, 0%, 100%);
-
-// Neutral
-
-$Light_gray: hsl(0, 0%, 81%);
-$Light_grayish_blue: hsl(210, 46%, 95%);
+@import 'variables.scss';
 
 body {
+  font-family: $font-family;
+  font-size: $font-size;
+  font-weight: $regular-weight;
   background-color: $Light_grayish_blue;
   margin: 0;
-  font-family: 'Barlow Semi Condensed', sans-serif;
   display: flex;
   justify-content: center;
 }
-//components
 
 .avatar {
   width: 40px;
@@ -30,29 +19,31 @@ body {
 }
 .title {
   margin: 0;
+  font-weight: $big-weight;
+  opacity: 1;
 }
 .sub_title {
   margin: 0;
+  opacity: $opacity-verified-graduate;
 }
 h1 {
   margin: 0;
   padding: 0;
-  font-size: 18px;
-  font-weight: 1.5rem;
+  font-weight: $big-weight;
 }
 p {
   margin: 0;
-  margin-top: 20px;
-  font-size: 0.8rem;
-  font-weight: normal;
+  margin-top: 18px;
   z-index: 1;
+  line-height: 18px;
+  opacity: $opacity-paragraph;
 }
 .container {
   margin: 50px 0;
   display: grid;
   grid-gap: 20px;
-  grid-template-columns: 220px 250px 250px 220px;
-  grid-template-rows: 260px 250px;
+  grid-template-columns: 250px 250px 250px 240px;
+  grid-template-rows: 280px, 280px;
   .profile {
     display: flex;
     justify-content: center;
@@ -60,6 +51,7 @@ p {
     align-self: flex-start;
     margin: 20px;
     margin-bottom: 15px;
+    z-index: 10;
     .name_occupation {
       margin-left: 24px;
     }
@@ -72,7 +64,7 @@ p {
   .card {
     display: flex;
     flex-direction: column;
-    border-radius: 5px;
+    border-radius: 8px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
       rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
   }
@@ -108,6 +100,9 @@ p {
     grid-row: 2/3;
     background-color: $White;
     color: #4d5055;
+    h1 {
+      max-width: 180px;
+    }
     .avatar {
       border-color: $Light_gray;
     }
@@ -135,7 +130,7 @@ p {
   .container {
     grid-template-columns: 100%;
     grid-template-rows: none;
-    margin: 50px;
+    margin: 30px;
     .card_1 {
       grid-column: 1/2;
       grid-row: 1/2;
@@ -152,6 +147,9 @@ p {
     .card_3 {
       grid-column: 1/2;
       grid-row: 3/4;
+      h1 {
+        max-width: 200px;
+      }
     }
     .card_4 {
       grid-column: 1/2;
