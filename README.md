@@ -32,5 +32,4 @@ Users should be able to:
 ## Author
 
 - Website - [Zineb Boutaa](https://zineb-bou.github.io/)
-- Frontend Mentor - [@zineb-Bou](https://www.frontendmentor.io/profile/zineb-Bou)
 - Twitter - [@ZBoutaa](https://twitter.com/ZBoutaa)
