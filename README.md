@@ -29,7 +29,4 @@ Users should be able to:
 - Mobile-first workflow
 - Sass
 
-## Author
-
-- Website - [Zineb Boutaa](https://zineb-bou.github.io/)
-- Twitter - [@ZBoutaa](https://twitter.com/ZBoutaa)
+Made with 💖 by [ZINEB](https://zineb-bou.github.io/)
